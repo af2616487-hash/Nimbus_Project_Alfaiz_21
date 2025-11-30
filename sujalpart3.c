@@ -1,5 +1,4 @@
 //Part 3: Reporting and Visualization
-// Part 3: Top 3 highest consuming appliances
 void show_top_consumers() {
     if (usage_count == 0) {
         printf("No usage data!\n");
